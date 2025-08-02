@@ -3,7 +3,7 @@
 <table bgcolor="#A47DAB">
   <tr>
     <td>
-      <img src="vinas.png" height="550" style="margin-top:30px;">
+      <img src="vina.png" height="550" style="margin-top:30px;">
     </td>
     <td style="vertical-align: top;">
       <img src="vinay.svg" width="600" height="500" style="margin-top:30px;">
